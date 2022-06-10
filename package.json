@@ -1,0 +1,24 @@
+{
+  "name": "CI-Performance-Actions",
+  "version": "1.0.0",
+  "description": "Project to test continuos integration with GitHub actions to make an automization of performance test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-prieto/CI-Performance-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-prieto/CI-Performance-Actions/issues"
+  },
+  "homepage": "https://github.com/jorge-prieto/CI-Performance-Actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.8.2",
+    "@actions/github": "^5.0.3"
+  }
+}
